@@ -7,19 +7,19 @@ body {
 }
 
 .jumbotron {
-	height: 700px;
-	background-image: url('../../img/3.jpg');
+	height: 610px;
+	background-image: url('../../img/an.jpg');
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: 0 - 100px;
-	color: #808080;
+	color: #ecf0f1;
 	overflow: hidden;
 }
 
 .jumbotron img {
 width: 200px;
 height: 200px;
-border: 5px solid #808080;
+border: 5px solid #ecf0f1;
 border-radius: 100%
 }
 
@@ -51,8 +51,8 @@ footer {
 	position: absolute;
 	width: 100%;
 	bottom: 0;
-	height: 100px;
-	background-color: #333;
+	height: 40px;
+	background-color: #ecf0f1;
 }
 footer p{
 	color: #aaa;
